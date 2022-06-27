@@ -1,3 +1,3 @@
-#Chatty
+Chatty
 
 chat application
